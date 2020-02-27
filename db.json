@@ -3,6 +3,7 @@
       { "userId": 1, 
         "recomendedItems": [
         { 
+          "key": 1,
           "type": "p", 
           "created": 1531518998203,
           "updated": 1531518998203,
@@ -13,6 +14,7 @@
           "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/s/msj012t_2.jpg"
         },
         { 
+          "key": 2,
           "type": "p", 
           "created": 1531518998203,
           "updated": 1531518998203,
@@ -27,6 +29,7 @@
     { "userId": 2, 
       "recomendedItems": [
       { 
+        "key": 1,
         "type": "p", 
         "created": 1531518998203,
         "updated": 1531518998203,
