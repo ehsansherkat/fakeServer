@@ -1,5 +1,4 @@
-[
-  {
+{
     "userId": "a",
     "recomendedItems": [
       { 
@@ -13,30 +12,4 @@
         "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/m/pms000t_4.jpg"
       }
     ]
-  },
-  {
-    "userId": "b",
-    "recomendedItems": [
-      { 
-        "type": "p", 
-        "created": 1531518998203,
-        "updated": 1531518998203,
-        "attributesUpdated": 1531518998203,
-        "name": "AVERY OXFORD SHIRT",
-        "description": "Premium cottion and classically informed tailoring.",
-        "url": "https://madisonisland.evergage.com/magento/men/shirts/avery-oxford-shirt.html",
-        "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/m/pms000t_4.jpg"
-      },
-      { 
-        "type": "p", 
-        "created": 1531518998203,
-        "updated": 1531518998203,
-        "attributesUpdated": 1531518998203,
-        "name": "AVERY OXFORD SHIRT",
-        "description": "Premium cottion and classically informed tailoring.",
-        "url": "https://madisonisland.evergage.com/magento/men/shirts/avery-oxford-shirt.html",
-        "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/m/pms000t_4.jpg"
-      }
-    ]
   }
-]
