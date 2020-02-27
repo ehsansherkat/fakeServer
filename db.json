@@ -1,6 +1,7 @@
 {
   "users": [
       { "userId": 1, 
+        "email": "ehsan1@gmail.com",
         "recomendedItems": [
         { 
           "key": 1,
@@ -61,6 +62,7 @@
     },
     { 
       "userId": 2, 
+      "email": "ehsan2@gmail.com",
       "recomendedItems": [
       { 
         "key": 1,
@@ -74,30 +76,32 @@
         "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/p/mpd000t.jpg"
       }] 
     },
-      { "userId": 3, 
-      "recomendedItems": [
       { 
-        "key": 1,
-        "type": "p", 
-        "created": 1531518998203,
-        "updated": 1531518998203,
-        "attributesUpdated": 1531518998203,
-        "name": "KHAKI BOWERY CHINO PANTS",
-        "description": "The slim and trim Bowery is a wear-to-work pant you'll actually want to wear. A clean style in our crisp, compact cotton twill, it's perfectly polished (but also comfortable enough for hanging out after hours).",
-        "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/khaki-bowery-chino-pants.html",
-        "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/p/mpd000t.jpg"
-      },
-      { 
-          "key": 2,
+        "userId": 3, 
+        "email": "ehsan3@gmail.com",
+        "recomendedItems": [
+        { 
+          "key": 1,
           "type": "p", 
           "created": 1531518998203,
           "updated": 1531518998203,
           "attributesUpdated": 1531518998203,
-          "name": "CHELSEA TEE",
-          "description": "Minimalist style and maximum comfort meet in this lightweight tee.",
-          "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/chelsea-tee.html",
-          "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/t/mtk004t.jpg"
-        }
-    ] }
+          "name": "KHAKI BOWERY CHINO PANTS",
+          "description": "The slim and trim Bowery is a wear-to-work pant you'll actually want to wear. A clean style in our crisp, compact cotton twill, it's perfectly polished (but also comfortable enough for hanging out after hours).",
+          "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/khaki-bowery-chino-pants.html",
+          "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/p/mpd000t.jpg"
+        },
+        { 
+            "key": 2,
+            "type": "p", 
+            "created": 1531518998203,
+            "updated": 1531518998203,
+            "attributesUpdated": 1531518998203,
+            "name": "CHELSEA TEE",
+            "description": "Minimalist style and maximum comfort meet in this lightweight tee.",
+            "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/chelsea-tee.html",
+            "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/t/mtk004t.jpg"
+          }
+      ] }
   ]
 }
