@@ -23,10 +23,44 @@
           "description": "Minimalist style and maximum comfort meet in this lightweight tee.",
           "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/chelsea-tee.html",
           "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/t/mtk004t.jpg"
+        },
+        { 
+          "key": 3,
+          "type": "p", 
+          "created": 1531518998203,
+          "updated": 1531518998203,
+          "attributesUpdated": 1531518998203,
+          "name": "KHAKI BOWERY CHINO PANTS",
+          "description": "The slim and trim Bowery is a wear-to-work pant you'll actually want to wear. A clean style in our crisp, compact cotton twill, it's perfectly polished (but also comfortable enough for hanging out after hours).",
+          "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/khaki-bowery-chino-pants.html",
+          "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/p/mpd000t.jpg"
+        },
+        { 
+          "key": 4,
+          "type": "p", 
+          "created": 1531518998203,
+          "updated": 1531518998203,
+          "attributesUpdated": 1531518998203,
+          "name": "MERINO V-NECK PULLOVER SWEATER",
+          "description": "A classy V-neck sweater crafted from smooth refined Merino wool. Essential for layering when changing climates.",
+          "url": "https://madisonisland.evergage.com/magento/men/tees-knits-and-polos/merino-v-neck-pullover-sweater-860.html",
+          "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/t/mtk006t.jpg"
+        },
+        { 
+          "key": 5,
+          "type": "p", 
+          "created": 1531518998203,
+          "updated": 1531518998203,
+          "attributesUpdated": 1531518998203,
+          "name": "MERINO V-NECK PULLOVER SWEATER",
+          "description": "A classy V-neck sweater crafted from smooth refined Merino wool. Essential for layering when changing climates.",
+          "url": "https://madisonisland.evergage.com/magento/men/tees-knits-and-polos/merino-v-neck-pullover-sweater-862.html",
+          "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/m/pmtk006t_4.jpg"
         }
       ] 
     },
-    { "userId": 2, 
+    { 
+      "userId": 2, 
       "recomendedItems": [
       { 
         "key": 1,
@@ -38,7 +72,32 @@
         "description": "The slim and trim Bowery is a wear-to-work pant you'll actually want to wear. A clean style in our crisp, compact cotton twill, it's perfectly polished (but also comfortable enough for hanging out after hours).",
         "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/khaki-bowery-chino-pants.html",
         "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/p/mpd000t.jpg"
-      }
+      }] 
+    },
+      { "userId": 3, 
+      "recomendedItems": [
+      { 
+        "key": 1,
+        "type": "p", 
+        "created": 1531518998203,
+        "updated": 1531518998203,
+        "attributesUpdated": 1531518998203,
+        "name": "KHAKI BOWERY CHINO PANTS",
+        "description": "The slim and trim Bowery is a wear-to-work pant you'll actually want to wear. A clean style in our crisp, compact cotton twill, it's perfectly polished (but also comfortable enough for hanging out after hours).",
+        "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/khaki-bowery-chino-pants.html",
+        "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/p/mpd000t.jpg"
+      },
+      { 
+          "key": 2,
+          "type": "p", 
+          "created": 1531518998203,
+          "updated": 1531518998203,
+          "attributesUpdated": 1531518998203,
+          "name": "CHELSEA TEE",
+          "description": "Minimalist style and maximum comfort meet in this lightweight tee.",
+          "url": "https://madisonisland.evergage.com/magento/men/new-arrivals/chelsea-tee.html",
+          "imageUrl": "https://madisonisland.evergage.com/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/t/mtk004t.jpg"
+        }
     ] }
   ]
 }
